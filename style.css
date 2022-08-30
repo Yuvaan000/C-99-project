@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(97, 247, 235);
+    color: rgb(241, 105, 189)
+}
+h1 {
+ color: rgb(241, 105, 189);
+}
+h4 {
+    font-family:'Times New Roman', Times, serif
+}
+#camera {
+    width: 500px;
+    height: 400px;
+    border-color: black;
+}
+img{
+    width: 500px;
+    height: 400px;
+    padding-top: 10%;
+    box-shadow: 10cm;
+}
+img:hover{
+    width: 550px;
+height: 450px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    
+}
